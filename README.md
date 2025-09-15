@@ -6,3 +6,6 @@ I found this article interesting because it reminded me about what we learned in
 The style says that worse is better and that simplicity and ease of use are more beneficial than functionality. This reminded me of what the Professor taught us: bespoke development is the antithesis of the modern-day agile developer.
 We can not make everyone happy with our product and its best to apply a consistent strategy to our projects than custom tailoring them.
 While meeting client expectations is important, it is best to prioritize saving time and cost while still delivering an acceptable product.
+
+# Comments (Sam Murshed)
+ I agree with the belief that simplicity is better but somethimes it's just not possible, hence why backend is commonly known for being messy. 
