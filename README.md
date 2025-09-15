@@ -10,4 +10,8 @@ Check out this awesome site:
 
 ## Why I Think It’s Valuable
 
+<<<<<<< HEAD
 What strikes me about the Toptal Engineering Blog is its combination of practical depth and well‑researched content. Many of the posts aren’t just high level,they dive into implementation, performance trade‑offs, scalability, and maintainability. That helps bridge the gap between theory and what it’s like working on real projects.
+=======
+What strikes me about the Toptal Engineering Blog is its combination of practical depth and well‑researched content. Many of the posts aren’t just high level, they dive into implementation, performance trade‑offs, scalability, and maintainability. That helps bridge the gap between theory and what it’s like working on real projects.
+>>>>>>> c64cc01040b7c2ec331e177f8430754ca8ab3059
