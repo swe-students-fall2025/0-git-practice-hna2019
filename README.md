@@ -7,6 +7,7 @@ This repository contains resources and materials related to software development
 Check out this awesome site:  
 [Toptal Developers Blog](https://www.toptal.com/developers/blog)
 
+
 ## Why I Think It’s Valuable
 
-What strikes me about the Toptal Engineering Blog is its combination of practical depth and well‑researched content. Many of the posts aren’t just high level — they dive into implementation, performance trade‑offs, scalability, and maintainability. That helps bridge the gap between theory and what it’s like working on real projects.
+What strikes me about the Toptal Engineering Blog is its combination of practical depth and well‑researched content. Many of the posts aren’t just high level, they dive into implementation, performance trade‑offs, scalability, and maintainability. That helps bridge the gap between theory and what it’s like working on real projects.
